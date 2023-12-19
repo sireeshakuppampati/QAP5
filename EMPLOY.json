@@ -1,0 +1,57 @@
+[
+    {
+        "empfname": "Sam",
+        "emplname": "Robert",
+        "phonenumber": "709-123-2341",
+        "address": "12 ABC Street",
+        "gender": "male",
+        "age": 25,
+        "status": "Full-Time",
+        "salary": 50000
+    },
+
+     {
+      "empfname": "Andrew",
+      "emplname": "Robson",
+      "phonenumber": "709-011-1241",
+      "address": "11A Cat Street",
+      "gender": "male",
+      "age": 54,
+      "status": "Full-Time",
+      "salary": 130000
+    },
+
+    {
+      "empfname": "bob",
+      "emplname": "Mason",
+      "phonenumber": "709-333-1041",
+      "address": "10 DownTown Street",
+      "gender": "male",
+      "age": 40,
+      "status": "Part-Time",
+      "salary": 45000
+     },
+
+    {
+     "empfname": "Lisa",
+      "emplname": "Kom",
+      "phonenumber": "709-110-2041",
+      "address": "12 ABC Street",
+      "gender": "female",
+      "age":55,
+      "status": "Casual",
+      "salary": 60000
+  },
+    {
+
+      "empfname": "Kate",
+      "emplname": "susan",
+      "phonenumber": "709-123-0001",
+      "address": "02 Dowing Street",
+      "gender": "female",
+      "age": 75,
+      "status": "Full-Time",
+      "salary": 120000
+     }
+     
+]
